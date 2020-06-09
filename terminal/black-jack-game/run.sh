@@ -1,0 +1,1 @@
+clang -framework Foundation main.m Card.m Deck.m BlackjackHand.m BlackjackGame.m PokerHand.m PokerGame.m CardHand.m -o app && ./app

@@ -1,0 +1,1 @@
+clang -framework Foundation main.m Counter.m -o app && ./app

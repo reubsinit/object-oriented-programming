@@ -1,0 +1,1 @@
+clang -framework Foundation main.m Bag.m Command.m GameObject.m IdentifiableObject.m Inventory.m Item.m LookCommand.m Player.m -o app && ./app

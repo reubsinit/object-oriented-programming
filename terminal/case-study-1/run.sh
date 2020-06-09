@@ -1,0 +1,1 @@
+clang -framework Foundation main.m Board.m Dice.m Die.m JailAction.m JailTile.m MonopolyEvent.m MonopolyGame.m MoveAction.m Player.m Tile.m TransAction.m -o app && ./app
